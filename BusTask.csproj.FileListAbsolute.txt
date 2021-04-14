@@ -1,0 +1,10 @@
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\bin\Debug\BusTask.exe.config
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\bin\Debug\BusTask.exe
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\bin\Debug\BusTask.pdb
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.csprojAssemblyReference.cache
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.Form1.resources
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.Properties.Resources.resources
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.csproj.GenerateResource.cache
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.csproj.CoreCompileInputs.cache
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.exe
+C:\Users\Григорий.STB\source\repos\BusTask\BusTask\obj\Debug\BusTask.pdb
